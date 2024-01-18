@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singh-saniya
 - 👀 I’m interested in learning as much as possible 
-- 🌱 I’m currently learning c language. I am in first year of my computer science engineering degree.
+- 🌱 I’m currently learning c language. I am in second year of my computer science engineering degree.
 
 - 📫 How to reach me on instagram @may__grl
 
