@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning as much as possible 
 - 🌱 I’m currently learning c language. I am in second year of my computer science engineering degree.
 
-- 📫 How to reach me on instagram @may__grl
 
 <!---
 singh-saniya/singh-saniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
