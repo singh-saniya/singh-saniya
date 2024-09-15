@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singh-saniya
 - 👀 I’m interested in learning as much as possible 
-- 🌱 I’m currently learning c language. I am in second year of my computer science engineering degree.
+- 🌱 java enthusiast. I am in third year of my computer science engineering degree.
 
 
 <!---
